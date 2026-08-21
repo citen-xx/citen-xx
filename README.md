@@ -5,7 +5,7 @@
 <h4 align="left">Java Backend / AI / Vue</h4>
 
 <p align="left">
-  Building interesting things with Java, Spring Boot and AI 🚀
+  小白，希望可以混口饭吃
 </p>
 
 <p align="left">
