@@ -1,6 +1,3 @@
-```html
-**Contributions**
-
 <!-- Emiyaaaaa/HiveMind -->
 <a href="https://github.com/Emiyaaaaa/HiveMind">
   <img
@@ -21,4 +18,3 @@
 
 <br>
 <br>
-```
