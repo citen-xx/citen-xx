@@ -1,4 +1,7 @@
 <!-- Emiyaaaaa/HiveMind -->
+
+<h1 align="center">Hi 👋, I'm citen</h1> <h3 align="center"> Java Backend / AI / Vue </h3> <p align="center"> Building interesting things with Java, Spring Boot and AI 🚀 </p>
+
 <a href="https://github.com/Emiyaaaaa/HiveMind">
   <img
     align="center"
