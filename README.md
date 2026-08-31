@@ -5,7 +5,7 @@
 <h4 align="left">Java / 全栈 /agent</h4>
 
 <p align="left">
-  小白，希望可以混口饭吃
+  不算入行，学习两年，希望可以持续进步
 </p>
 
 <p align="left">
