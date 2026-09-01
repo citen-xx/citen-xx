@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi  👋, I'm citen  </h2>
 
-<h4 align="left">Java / 全栈 /agent</h4>
+<h4 align="left">Java后端 / 全栈 /agent</h4>
 
 <p align="left">
   不算入行，学习两年，希望可以持续进步
