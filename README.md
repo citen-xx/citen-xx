@@ -1,6 +1,6 @@
 <!-- Emiyaaaaa/HiveMind -->
 
-<h2 align="left">Hi  👋, I'm citen  </h2>
+<h2 align="left">Hello  👋, I'm citen  </h2>
 
 <h4 align="left">Java / 全栈 /agent</h4>
 
